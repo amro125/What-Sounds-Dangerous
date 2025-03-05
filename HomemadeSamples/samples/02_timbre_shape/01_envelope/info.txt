@@ -1,0 +1,4 @@
+1: Short attack, short decay
+2: Short attack, long decay
+3: Long attack, short decay
+4: Long attack, long decay

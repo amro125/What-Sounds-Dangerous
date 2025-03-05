@@ -1,0 +1,4 @@
+1: Triangle Wave
+2: LP Square Wave
+3: HP Square Wave
+4: Distorted Square Wave

@@ -1,0 +1,4 @@
+1: Solo Piano
+2: Solo Harpsichord
+3: Woodwind Ensemble
+4: Full Orchestra

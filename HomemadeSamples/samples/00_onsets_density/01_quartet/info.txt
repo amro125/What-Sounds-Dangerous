@@ -1,0 +1,4 @@
+1. Half note legatos
+2. Eighth note staccatos
+3. Sixteenth note staccatos
+4. Cut Sixteenth note staccatissimos

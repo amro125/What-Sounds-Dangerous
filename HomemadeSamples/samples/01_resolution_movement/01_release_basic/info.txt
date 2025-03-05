@@ -1,0 +1,4 @@
+1: Major authentic
+2: Minor authentic
+3: Minor unresolved
+4: Minor deceptive

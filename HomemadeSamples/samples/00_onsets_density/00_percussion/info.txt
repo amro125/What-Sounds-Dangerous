@@ -1,0 +1,4 @@
+1: Half time
+2: Common time
+3: Cut time
+4: Mixed time

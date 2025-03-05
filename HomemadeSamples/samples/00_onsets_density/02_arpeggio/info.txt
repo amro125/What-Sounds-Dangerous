@@ -1,0 +1,4 @@
+1: 4th Note Arpeggio
+2: 8th Note Arpeggio
+3: 16th Note Arpeggio
+4: 32th Note Arpeggio
